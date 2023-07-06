@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pictures-viewer-light/1.0.0": {
+        "runtime": {
+          "pictures-viewer-light.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pictures-viewer-light/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
