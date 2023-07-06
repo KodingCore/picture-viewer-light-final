@@ -7,9 +7,8 @@ Une fois le fichier ouvert, trois bouton sont à dispositions.
 -Load  >>> Permet de charger une autre image
 -Quit  >>> Permet de quitter le programme
 
-L'utlité de pouvoir faire réapparaitre les bordures consiste à permettre le déplacement de la form.
+L'utlitée de pouvoir faire réapparaitre les bordures consiste à permettre le déplacement de la form.
 
 Points à améliorer:
--Mettre un icone
 -Permettre le déplacement de la form par un drag and drop au click, dans le milieu de la form.
--Potetiellement le bouton quit pourra être supprimé
+-voir pour l'aspect/ratio des images
