@@ -1,6 +1,6 @@
 # picture-viewer-light-final
 
-Visualisateur d'images pour windows "LIGHT"
+Visualisateur d'images pour Windows "LIGHT"
 
 prérequis :
 télécharger et installer la version 7 .Net desktop runtime: 
@@ -14,7 +14,7 @@ Une fois le fichier ouvert, deux bouton sont à dispositions:
 -Help  >>>  Retire la bordure de la form
 -Load  >>> Permet de charger une autre image
 
-L'utlité de pouvoir faire réapparaitre et disparaître les bordures consiste à permettre le déplacement de la form (en attente d'amélio).
+L'utilité de pouvoir faire réapparaitre et disparaître les bordures consiste à permettre le déplacement de la form (en attente d'amélioration).
 
 Points à améliorer:
 -Permettre le déplacement de la form par un drag and drop au click, dans le milieu de la form.
