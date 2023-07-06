@@ -2,11 +2,19 @@
 
 Visualisateur d'images pour windows "LIGHT"
 
-Une fois le fichier ouvert, trois bouton sont à dispositions.
--Help  >>> Indique la seul commande clavier utile, qui permet de garder l'image au premier plan de l'écran et de retirer la bordure global de la form
+prérequis :
+télécharger et installer la version 7 .Net desktop runtime: 
+
+https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+
+Utilisation:
+Lancer le fichier .exe
+Choisir une image à charger. 
+Une fois le fichier ouvert, deux bouton sont à dispositions:
+-Help  >>>  Retire la bordure de la form
 -Load  >>> Permet de charger une autre image
 
-L'utlitée de pouvoir faire réapparaitre les bordures consiste à permettre le déplacement de la form (en attente d'amélio).
+L'utlité de pouvoir faire réapparaitre et disparaître les bordures consiste à permettre le déplacement de la form (en attente d'amélio).
 
 Points à améliorer:
 -Permettre le déplacement de la form par un drag and drop au click, dans le milieu de la form.
