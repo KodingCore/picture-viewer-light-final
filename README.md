@@ -1,14 +1,14 @@
 # picture-viewer-light-final
 
-Image Viewer for Windows. This viewer is the lightest and can stay above all windows, without taking focus.
+# Image Viewer for Windows. This viewer is the lightest and can stay above all windows, without taking focus.
 
-Prerequisites:
+# Prerequisites:
 
 Download and install the .NET Desktop Runtime version 7:
 
 https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
-Usage:
+# Usage:
 
 Launch the .exe file.
 
@@ -22,23 +22,23 @@ Load >>> Allows loading another image.
 
 The purpose of being able to show and hide the borders is to enable form movement (pending improvement).
 
-Areas for improvement:
+# Areas for improvement:
 
 Enable form movement by drag and drop in the center of the form.
 
 
 
-Visualisateur d'images pour Windows "LIGHT"
+# Visualisateur d'images pour Windows "LIGHT"
 
 
-prérequis :
+# Prérequis :
 
 télécharger et installer la version 7 .Net desktop runtime: 
 
 https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
 
-Utilisation:
+# Utilisation:
 
 -Lancer le fichier .exe
 
@@ -54,6 +54,6 @@ Load  >>> Permet de charger une autre image
 L'utilité de pouvoir faire réapparaitre et disparaître les bordures consiste à permettre le déplacement de la form (en attente d'amélioration).
 
 
-Points à améliorer:
+# Points à améliorer:
 
 -Permettre le déplacement de la form par un drag & drop dans le milieu de la form.
